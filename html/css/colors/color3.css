@@ -1,0 +1,140 @@
+::selection {
+background:#1ABC9C  !important;
+}
+::-moz-selection {
+background:#1ABC9C  !important;
+}
+
+a.link-name { color:#1ABC9C  !important; }
+
+body { background: url("../../images/body-bg.png") repeat fixed 50% 0 #718e87; }
+
+h1, h2, h3, h4, h5, h6, .tp-caption.te-caption, .sub-title, .text-title > div > span, .text-title h4, .widget .tabs-nav li.active a, .tabs-nav li.active a { color: #008A60 !important; }
+
+.headline:after { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.team-name span { color: #1ABC9C  !important; }
+
+.text-color-red { color: #1ABC9C  !important; }
+
+.text-color-red { color: #1ABC9C  !important; }
+
+.text-color-blue { color: #1ABC9C  !important; }
+
+.quotes .flex-control-nav li a:hover, .quotes .flex-control-nav li a.active { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+a.moduleItemReadMore:before { background: #1ABC9C  !important; }
+
+.list-style-1 li a:hover { color: #1ABC9C  !important; }
+
+.list-style li a:hover { color: #1ABC9C  !important; }
+
+.faq-accordion .qa { color: #1ABC9C  !important; }
+
+.faq_list span.marker { color:#1ABC9C  !important; }
+
+.price-column-featured h4 { background-color: #1ABC9C  !important; }
+
+span.link_post:hover { background-color: #1ABC9C  !important; }
+
+span.zoom:hover { background-color: #1ABC9C  !important; }
+
+span.video:hover { background-color: #1ABC9C  !important; }
+
+.ani-icon-wrap { background-color: #1ABC9C  !important; }
+
+.list-banners li { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.testimonial { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.feature-circle.blue { background-color: #1ABC9C  !important; }
+
+.info-box { border-left: 3px solid #1ABC9C  !important; }
+
+.eye:after { background-color: #1ABC9C  !important; }
+
+.eye:after { background-color: #1ABC9C  !important; -webkit-box-shadow: 25px 0 0 0 #1ABC9C  !important; -moz-box-shadow: 25px 0 0 0 #1ABC9C  !important; box-shadow: 25px 0 0 0 #1ABC9C  !important; }
+
+.social-circle li .entypo-twitter { background-color: #1ABC9C  !important; }
+
+.menu-box-number { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.sf-menu ul { background: none repeat scroll 0 0 #1ABC9C  !important; }
+.sf-menuwrapper ul { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.dropcap-big { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.row-2:after { border-color: #1ABC9C  rgba(0, 0, 0, 0) !important; }
+
+.row-2 { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+#accordion a:hover { background: none repeat scroll 0 0 #1ABC9C  !important; border: 1px solid #009C7C !important; }
+
+#accordion a.selected { background: none repeat scroll 0 0 #1ABC9C  !important; border: 1px solid #009C7C !important; }
+
+.sign-in { background: none repeat scroll 0 0 #008C6C  !important; }
+
+.sign-in:hover { background: none repeat scroll 0 0 #C72C1C !important; }
+
+.menu-box .titular { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.testimonial:after { border-color: #009C7C rgba(0, 0, 0, 0) !important; }
+
+.tp-button.blue, .purchase.blue { color: #ffffff; border: solid 1px #009C7C; background: #1ABC9C ; background: -webkit-gradient(linear, left top, left bottom, from(#1ABC9C ), to(#009C7C)); background: -moz-linear-gradient(top, #1ABC9C , #009C7C); -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); }
+
+.tp-button:hover.blue, .purchase:hover.blue { color: #ffffff; border: solid 1px #009C7C; background: #009C7C; background: -webkit-gradient(linear, left top, left bottom, from(#009C7C), to(#009C7C)); background: -moz-linear-gradient(top, #009C7C, #009C7C); -webkit-box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); }
+
+.row-nav { background: none repeat scroll 0 0 #1ABC9C  !important; }
+
+.row-2:after { border-color: #1ABC9C  rgba(0, 0, 0, 0) !important; }
+
+.row-2 .text-2, .parallax .text-2 { color: #8affff !important; }
+ #owl-demo .owl-item:nth-child(2n+1) .item .pro-info {
+ background: none repeat scroll 0 0 #1ABC9C  !important;
+}
+
+.sf-menu li.active { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.07) !important; }
+
+.sf-menu li:hover, .sf-menu li.current-menu-item, .sf-menu li.sfHover, .sf-menu li.current-menu-parent { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.07) !important; }
+
+.sf-menu li:hover a { color: #FFFFFF !important; }
+
+.sf-menu li .sub-menu li a { color: #fff !important; }
+
+.post-holder .date .month { color: #FFFFFF !important; }
+
+.blue-ft-shadow { text-shadow: rgb(11, 173, 141) 1px 1px, rgb(12, 174, 142) 2px 2px, rgb(12, 174, 142) 3px 3px, rgb(13, 175, 143) 4px 4px, rgb(13, 175, 143) 5px 5px, rgb(14, 176, 144) 6px 6px, rgb(14, 176, 144) 7px 7px, rgb(15, 177, 145) 8px 8px, rgb(15, 177, 145) 9px 9px, rgb(16, 178, 146) 10px 10px, rgb(16, 178, 146) 11px 11px, rgb(17, 179, 147) 12px 12px, rgb(17, 179, 147) 13px 13px, rgb(18, 180, 148) 14px 14px, rgb(18, 180, 148) 15px 15px, rgb(19, 181, 149) 16px 16px, rgb(19, 181, 149) 17px 17px, rgb(20, 182, 150) 18px 18px, rgb(20, 182, 150) 19px 19px, rgb(21, 183, 151) 20px 20px, rgb(21, 183, 151) 21px 21px, rgb(22, 184, 152) 22px 22px, rgb(22, 184, 152) 23px 23px, rgb(23, 185, 153) 24px 24px, rgb(23, 185, 153) 25px 25px, rgb(24, 186, 154) 26px 26px, rgb(24, 186, 154) 27px 27px, rgb(25, 187, 155) 28px 28px, rgb(25, 187, 155) 29px 29px, rgb(26, 188, 156) 30px 30px; }
+
+.post-holder .date { background-color: #737373 !important; color:#fff !important; text-shadow: 1px -1px 0px #333 !important; }
+
+.button.yellow, input[type="button"] { background-color: #1ABC9C  !important; color:#fff !important; }
+
+.button.yellow:hover { background: #1ABC9C !important; }
+
+#owl-demo-1 .item a:hover { background: none repeat scroll 0 0 rgba(26, 188, 156, 0.9) !important; }
+
+.owl-theme .owl-controls .owl-page span { background: none repeat scroll 0 0 #008A60 !important; }
+
+.da-thumbs li article { background: none repeat scroll 0 0 rgba(26, 188, 156, 0.9) !important;  }
+
+.overlay.zoom { background: url("../images/icons/overlay.png") no-repeat scroll center center rgba(26, 188, 156, 0.9); }
+
+.caption-style-2 .blur { background-color: rgba(26, 188, 156, 0.7) !important; }
+
+.parallax .inner { background: none repeat scroll 0 0 rgba(4, 35, 29, 0.6) !important; }
+
+footer { background: none repeat scroll 0 0 #1C1C1C !important; }
+
+.footer-blocks { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.1) !important; }
+
+input[type="text"] { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1) !important; border: 1px solid rgba(0, 0, 0, 0.13) !important; }
+
+input[type="text"]:focus { border: 1px solid rgba(0, 0, 0, 0.6) !important; }
+
+.tweet.first { border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; }
+
+.scnd-font-color { color: #777777 !important; }
+
+.menu-box-tab { border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; }
+
+.menu-box-tab:hover { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1) !important; }
