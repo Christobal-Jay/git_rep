@@ -1,0 +1,140 @@
+::selection {
+background:#D770AD  !important;
+}
+::-moz-selection {
+background:#D770AD  !important;
+}
+
+a.link-name { color:#D770AD  !important; }
+
+body { background: url("../../images/body-bg.png") repeat fixed 50% 0 #7e6b76; }
+
+h1, h2, h3, h4, h5, h6, .tp-caption.te-caption, .sub-title, .text-title > div > span, .text-title h4, .widget .tabs-nav li.active a, .tabs-nav li.active a { color: #2F0A20 !important; }
+
+.headline:after { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.team-name span { color: #D770AD  !important; }
+
+.text-color-red { color: #D770AD  !important; }
+
+.text-color-red { color: #D770AD  !important; }
+
+.text-color-blue { color: #D770AD  !important; }
+
+.quotes .flex-control-nav li a:hover, .quotes .flex-control-nav li a.active { background: none repeat scroll 0 0 #D770AD  !important; }
+
+a.moduleItemReadMore:before { background: #D770AD  !important; }
+
+.list-style-1 li a:hover { color: #D770AD  !important; }
+
+.list-style li a:hover { color: #D770AD  !important; }
+
+.faq-accordion .qa { color: #D770AD  !important; }
+
+.faq_list span.marker { color:#D770AD  !important; }
+
+.price-column-featured h4 { background-color: #D770AD  !important; }
+
+span.link_post:hover { background-color: #D770AD  !important; }
+
+span.zoom:hover { background-color: #D770AD  !important; }
+
+span.video:hover { background-color: #D770AD  !important; }
+
+.ani-icon-wrap { background-color: #D770AD  !important; }
+
+.list-banners li { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.testimonial { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.feature-circle.blue { background-color: #D770AD  !important; }
+
+.info-box { border-left: 3px solid #D770AD  !important; }
+
+.eye:after { background-color: #D770AD  !important; }
+
+.eye:after { background-color: #D770AD  !important; -webkit-box-shadow: 25px 0 0 0 #D770AD  !important; -moz-box-shadow: 25px 0 0 0 #D770AD  !important; box-shadow: 25px 0 0 0 #D770AD  !important; }
+
+.social-circle li .entypo-twitter { background-color: #D770AD  !important; }
+
+.menu-box-number { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.sf-menu ul { background: none repeat scroll 0 0 #D770AD  !important; }
+.sf-menuwrapper ul { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.dropcap-big { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.row-2:after { border-color: #D770AD  rgba(0, 0, 0, 0) !important; }
+
+.row-2 { background: none repeat scroll 0 0 #D770AD  !important; }
+
+#accordion a:hover { background: none repeat scroll 0 0 #D770AD  !important; border: 1px solid #A7407D !important; }
+
+#accordion a.selected { background: none repeat scroll 0 0 #D770AD  !important; border: 1px solid #A7407D !important; }
+
+.sign-in { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.sign-in:hover { background: none repeat scroll 0 0 #A7407D !important; }
+
+.menu-box .titular { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.testimonial:after { border-color: #A7407D rgba(0, 0, 0, 0) !important; }
+
+.tp-button.blue, .purchase.blue { color: #ffffff; border: solid 1px #A7407D; background: #D770AD ; background: -webkit-gradient(linear, left top, left bottom, from(#D770AD ), to(#A7407D)); background: -moz-linear-gradient(top, #D770AD , #A7407D); -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); }
+
+.tp-button:hover.blue, .purchase:hover.blue { color: #ffffff; border: solid 1px #A7407D; background: #A7407D; background: -webkit-gradient(linear, left top, left bottom, from(#A7407D), to(#A7407D)); background: -moz-linear-gradient(top, #A7407D, #A7407D); -webkit-box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.08); }
+
+.row-nav { background: none repeat scroll 0 0 #D770AD  !important; }
+
+.row-2:after { border-color: #D770AD  rgba(0, 0, 0, 0) !important; }
+
+.row-2 .text-2, .parallax .text-2 { color: #ffeff8 !important; }
+ #owl-demo .owl-item:nth-child(2n+1) .item .pro-info {
+ background: none repeat scroll 0 0 #D770AD  !important;
+}
+
+.sf-menu li.active { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.07) !important; }
+
+.sf-menu li:hover, .sf-menu li.current-menu-item, .sf-menu li.sfHover, .sf-menu li.current-menu-parent { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.07) !important; }
+
+.sf-menu li:hover a { color: #FFFFFF !important; }
+
+.sf-menu li .sub-menu li a { color: #fff !important; }
+
+.post-holder .date .month { color: #FFFFFF !important; }
+
+.blue-ft-shadow { text-shadow: rgb(200, 97, 158) 1px 1px 0px, rgb(201, 98, 159) 2px 2px 0px, rgb(201, 98, 159) 3px 3px 0px, rgb(202, 99, 160) 4px 4px 0px, rgb(202, 99, 160) 5px 5px 0px, rgb(203, 100, 161) 6px 6px 0px, rgb(203, 100, 161) 7px 7px 0px, rgb(204, 101, 162) 8px 8px 0px, rgb(204, 101, 162) 9px 9px 0px, rgb(205, 102, 163) 10px 10px 0px, rgb(205, 102, 163) 11px 11px 0px, rgb(206, 103, 164) 12px 12px 0px, rgb(206, 103, 164) 13px 13px 0px, rgb(207, 104, 165) 14px 14px 0px, rgb(207, 104, 165) 15px 15px 0px, rgb(208, 105, 166) 16px 16px 0px, rgb(208, 105, 166) 17px 17px 0px, rgb(209, 106, 167) 18px 18px 0px, rgb(209, 106, 167) 19px 19px 0px, rgb(210, 107, 168) 20px 20px 0px, rgb(210, 107, 168) 21px 21px 0px, rgb(211, 108, 169) 22px 22px 0px, rgb(211, 108, 169) 23px 23px 0px, rgb(212, 109, 170) 24px 24px 0px, rgb(212, 109, 170) 25px 25px 0px, rgb(213, 110, 171) 26px 26px 0px, rgb(213, 110, 171) 27px 27px 0px, rgb(214, 111, 172) 28px 28px 0px, rgb(214, 111, 172) 29px 29px 0px, rgb(215, 112, 173) 30px 30px 0px; }
+
+.post-holder .date { background-color: #737373 !important; color:#fff !important; text-shadow: 1px -1px 0px #333 !important; }
+
+.button.yellow, input[type="button"] { background-color: #D770AD  !important; color:#fff !important; }
+
+.button.yellow:hover { background: #D770AD !important; }
+
+#owl-demo-1 .item a:hover { background: none repeat scroll 0 0 rgba(215, 112, 173, 0.9) !important; }
+
+.owl-theme .owl-controls .owl-page span { background: none repeat scroll 0 0 #D770AD !important; }
+
+.da-thumbs li article { background: none repeat scroll 0 0 rgba(215, 112, 173, 0.9) !important;  }
+
+.overlay.zoom { background: url("../images/icons/overlay.png") no-repeat scroll center center rgba(215, 112, 173, 0.9); }
+
+.caption-style-2 .blur { background-color: rgba(215, 112, 173, 0.7) !important; }
+
+.parallax .inner { background: none repeat scroll 0 0 rgba(21, 15, 2, 0.6) !important; }
+
+footer { background: none repeat scroll 0 0 #1C1C1C !important; }
+
+.footer-blocks { background: none repeat scroll 0 0 rgba(255, 255, 255, 0.1) !important; }
+
+input[type="text"] { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1) !important; border: 1px solid rgba(0, 0, 0, 0.13) !important; }
+
+input[type="text"]:focus { border: 1px solid rgba(0, 0, 0, 0.6) !important; }
+
+.tweet.first { border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; }
+
+.scnd-font-color { color: #777777 !important; }
+
+.menu-box-tab { border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; }
+
+.menu-box-tab:hover { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1) !important; }
